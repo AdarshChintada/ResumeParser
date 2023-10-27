@@ -1,0 +1,139 @@
+⚠  Skipping Entity: 		JOHN HAVEN
+		madhu kumar m... b.com
+⚠  Skipping Entity: 		Bibek Mukherjee Mob: 9830082... bibek7588@gmail.com
+⚠  Skipping Entity: PRIYANKA                      ... AWS
+⚠  Skipping Entity: 		CURRICULUM VITAE
+		Syed Irf... B.COM
+⚠  Skipping Entity: 		CURRICULUM VITAE
+		Syed Irf... Drawing
+⚠  Skipping Entity: 		Email ID:hirenprajapati003@g... hirenprajapati003@gmail.com
+⚠  Skipping Entity: 		Email ID:hirenprajapati003@g... MVC
+⚠  Skipping Entity: 		Milan R
+		BHAVANASUPRAJA
+	... C#
+⚠  Skipping Entity: 		Milan R
+		BHAVANASUPRAJA
+	... .Net
+⚠  Skipping Entity: Vaishali Kale
+Pune, Maharasht... C#
+⚠  Skipping Entity: Vaishali Kale
+Pune, Maharasht... .net
+⚠  Skipping Entity:   
+SUSOVAN  BAG   
+Seeking  ... C++
+⚠  Skipping Entity:   
+SUSOVAN  BAG   
+Seeking  ... Java
+⚠  Skipping Entity:   
+SUSOVAN  BAG   
+Seeking  ... HOTEL  MANAGEMENT  SYSTEM
+⚠  Skipping Entity: 		K. LALAIAH
+		Contact: + 91 ... MBA
+⚠  Skipping Entity: 		SATHISH KUMAR GATTU
+		H-NO:... C#
+⚠  Skipping Entity: 		SATHISH KUMAR GATTU
+		H-NO:... .Net
+⚠  Skipping Entity: 		SATHISH KUMAR GATTU
+		H-NO:... C#
+⚠  Skipping Entity: 		SATHISH KUMAR GATTU
+		H-NO:... .NET
+⚠  Skipping Entity: 		Kalpana K,Mobile: +
+		Call ... priyankachougule7890@mail.com
+⚠  Skipping Entity: 		Chaitanya Khatri Contact Num... ckhatri8@gmail.com
+⚠  Skipping Entity: PRAVEEN T            
+Senior ... AWS
+⚠  Skipping Entity: Mahima Kad
+Batala, Punjab
+Wo... C++
+⚠  Skipping Entity: 		CURRICULUM VITAE
+		Rupa Hal... C++
+⚠  Skipping Entity: 		CURRICULUM VITAE
+		Rupa Hal... VB.Net
+⚠  Skipping Entity: Ram.
+
+Cell :  510-556-3630
+... WebServices
+⚠  Skipping Entity: 		CURRICULUM VITAE
+		BHAVNEES... nishubhatia06@gmail.com
+⚠  Skipping Entity: 		CURRICULUM VITAE
+		BHAVNEES... Windows7
+⚠  Skipping Entity: 		CURRICULUM VITAE
+		BHAVNEES... Windows8
+⚠  Skipping Entity: 		CURRICULUM VITAE
+		BHAVNEES... C++
+⚠  Skipping Entity: 		CURRICULUM VITAE
+		BHAVNEES... Java
+⚠  Skipping Entity: 		Ashwin Malik
+		Oracle DBA
+... siddhantbele444@gmail.com
+⚠  Skipping Entity: 		Ashwin Malik
+		Oracle DBA
+... 10g,11g(RAC)
+⚠  Skipping Entity: 		Ashwin Malik
+		Oracle DBA
+... ,12c
+⚠  Skipping Entity: 		Y. Anusha
+		Mobile: +91 934... C#
+⚠  Skipping Entity: 		Y. Anusha
+		Mobile: +91 934... .NET
+⚠  Skipping Entity: 		Y. Anusha
+		Mobile: +91 934... C#
+⚠  Skipping Entity: 		Y. Anusha
+		Mobile: +91 934... .NET
+⚠  Skipping Entity: 		Y. Anusha
+		Mobile: +91 934... C#
+⚠  Skipping Entity: 		Y. Anusha
+		Mobile: +91 934... NET
+⚠  Skipping Entity: 		CURRICULUM-VITAE
+		E-mail-s... Spring
+		Database
+⚠  Skipping Entity: 		RESUME
+		RESUME
+		Gowri Sa... Chennai-600081
+⚠  Skipping Entity: 		RESUME
+		RESUME
+		DULAM SU... suprajateju.78@gmail.com
+⚠  Skipping Entity: 						
+Rashmithareddy
+Email:... Hyd
+⚠  Skipping Entity: 		karishma bellani
+		KARISHMA... kari_bellani10694@yahoo.com
+⚠  Skipping Entity: 		RESUME
+		Shailaja Rajput
+	... shailajarajput121@gmail.com
+⚠  Skipping Entity: Mohammed Huzaifa A
+Bangalore,... Java
+⚠  Skipping Entity: Mohammed Huzaifa A
+Bangalore,... c#
+⚠  Skipping Entity: Mohammed Huzaifa A
+Bangalore,... mysql
+⚠  Skipping Entity: 		CURRICULUM VITAE
+		HARI MAL... C#
+⚠  Skipping Entity: 		CURRICULUM VITAE
+		HARI MAL... C#
+⚠  Skipping Entity: 		CURRICULUM VITAE
+		HARI MAL... ASP.net
+⚠  Skipping Entity: 		RESUME
+		RESUME
+		Name: SU... JSP
+⚠  Skipping Entity: 		RESUME
+		RESUME
+		Name: SU... SQL
+⚠  Skipping Entity: Ravi Reddy
+SR. JAVA/J2EE DEVE... Servlets
+⚠  Skipping Entity: Ravi Reddy
+SR. JAVA/J2EE DEVE... AWS
+⚠  Skipping Entity: Ravi Reddy
+SR. JAVA/J2EE DEVE... Servlets
+⚠  Skipping Entity: Ravi Reddy
+SR. JAVA/J2EE DEVE... Servlets
+⚠  Skipping Entity: Ravi Reddy
+SR. JAVA/J2EE DEVE... SPRING3.0
+⚠  Skipping Entity: Ravi Reddy
+SR. JAVA/J2EE DEVE... STRUTS2.0
+⚠  Skipping Entity: Ravi Reddy
+SR. JAVA/J2EE DEVE... SpringSecurities
+⚠  Skipping Entity: 		APPALANAIDU POTHALA
+		Mobil... 55%
+⚠  Skipping Entity:                               ... Appium
+⚠  Skipping Entity:                               ... Selenium
