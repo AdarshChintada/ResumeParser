@@ -1,0 +1,166 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.2,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"a89eae928",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "transformer":[
+
+    ],
+    "ner":[
+      "ACHIEVEMENTS",
+      "ADDRESS",
+      "CERTIFICATIONS",
+      "EDUCATION",
+      "EMAIL",
+      "EXTRA CURRICULAR",
+      "GRADUATION",
+      "INTERNSHIP",
+      "JOB ROLE",
+      "LANGUAGES",
+      "MAIL ",
+      "MOBILE",
+      "NAME",
+      "ONLINE PROFILES",
+      "PERCENTAGE",
+      "PROGRAMMING",
+      "PROJECTS",
+      "ROLES",
+      "SKILLS",
+      "TECHNOLOGICS",
+      "TECHNOLOGIES",
+      "TECHNOLOGIES ",
+      "UNIVERSITY/COLLEGE",
+      "WEB TECHNOLOGIES",
+      "WORK EXPERIENCE"
+    ]
+  },
+  "pipeline":[
+    "transformer",
+    "ner"
+  ],
+  "components":[
+    "transformer",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":0.3063666826,
+    "ents_p":0.288912965,
+    "ents_r":0.3260648054,
+    "ents_per_type":{
+      "NAME":{
+        "p":0.6181818182,
+        "r":0.6257668712,
+        "f":0.6219512195
+      },
+      "ADDRESS":{
+        "p":0.2857142857,
+        "r":0.2023809524,
+        "f":0.2369337979
+      },
+      "TECHNOLOGIES":{
+        "p":0.1288805268,
+        "r":0.2,
+        "f":0.1567505721
+      },
+      "SKILLS":{
+        "p":0.3170813719,
+        "r":0.3700941915,
+        "f":0.3415429192
+      },
+      "WORK EXPERIENCE":{
+        "p":0.15,
+        "r":0.1238938053,
+        "f":0.1357027464
+      },
+      "PROJECTS":{
+        "p":0.1946902655,
+        "r":0.1294117647,
+        "f":0.1554770318
+      },
+      "GRADUATION":{
+        "p":0.325,
+        "r":0.3851851852,
+        "f":0.3525423729
+      },
+      "JOB ROLE":{
+        "p":0.3723404255,
+        "r":0.3398058252,
+        "f":0.3553299492
+      },
+      "EMAIL":{
+        "p":0.7777777778,
+        "r":0.8953488372,
+        "f":0.8324324324
+      },
+      "CERTIFICATIONS":{
+        "p":0.1666666667,
+        "r":0.1363636364,
+        "f":0.15
+      },
+      "ACHIEVEMENTS":{
+        "p":0.2615384615,
+        "r":0.2266666667,
+        "f":0.2428571429
+      },
+      "PERCENTAGE":{
+        "p":0.2391304348,
+        "r":0.1803278689,
+        "f":0.2056074766
+      },
+      "EXTRA CURRICULAR":{
+        "p":0.6147540984,
+        "r":0.5357142857,
+        "f":0.572519084
+      },
+      "PROGRAMMING":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      },
+      "WEB TECHNOLOGIES":{
+        "p":0.05,
+        "r":0.037037037,
+        "f":0.0425531915
+      },
+      "EDUCATION":{
+        "p":0.0454545455,
+        "r":0.1,
+        "f":0.0625
+      },
+      "UNIVERSITY/COLLEGE":{
+        "p":0.1818181818,
+        "r":0.2,
+        "f":0.1904761905
+      },
+      "ONLINE PROFILES":{
+        "p":0.3333333333,
+        "r":0.625,
+        "f":0.4347826087
+      },
+      "INTERNSHIP":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      }
+    },
+    "transformer_loss":8030.7754653589,
+    "ner_loss":12185.885519903
+  }
+}
